@@ -10,3 +10,5 @@ To take this a step further, I chose to use:
   - 2 Google fonts
   - splash colors
   - modern image hover effects
+  
+**You can view the live version [here](https://aekari.github.io/animal-card/).**
