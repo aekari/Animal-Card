@@ -9,6 +9,8 @@ This is a project I submitted for a Udacity course. The goal was to recreate a c
 To take this a step further, I chose to use:
   - 2 Google fonts
   - splash colors
-  - modern image hover effects
+  - image hover effects
   
-**You can view the live version [here](https://aekari.github.io/animal-card/).**
+**You can view the live version [here](https://aekari.github.io/animal-card/).🐘💞🐘**
+
+![](https://i.imgur.com/s0kbgSK.gif)
