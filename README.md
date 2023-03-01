@@ -11,6 +11,6 @@ To take this a step further, I chose to use:
   - splash colors
   - image hover effects
   
-**You can view the live version [here](https://aekari.github.io/animal-card/).🐘💞🐘**
+**You can view the live version [here](https://aekari.github.io/Animal-Card/).🐘💞🐘**
 
 ![](https://i.imgur.com/s0kbgSK.gif)
